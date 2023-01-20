@@ -1,5 +1,6 @@
 #virtual environment
 venv1
-bin
 lib
 .DS_Store
+bin
+share
